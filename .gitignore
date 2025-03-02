@@ -13,3 +13,6 @@
 
 #Ignore .jsonfiles  
 *.json
+
+# Ignore .jfrog files
+*.Jfrog
